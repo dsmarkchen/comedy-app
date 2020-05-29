@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/comedy-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/comedy-app/static/js/main.8e855c0c.chunk.js",
+    "main.js.map": "/comedy-app/static/js/main.8e855c0c.chunk.js.map",
+    "runtime-main.js": "/comedy-app/static/js/runtime-main.885e550f.js",
+    "runtime-main.js.map": "/comedy-app/static/js/runtime-main.885e550f.js.map",
+    "static/js/2.66f8245d.chunk.js": "/comedy-app/static/js/2.66f8245d.chunk.js",
+    "static/js/2.66f8245d.chunk.js.map": "/comedy-app/static/js/2.66f8245d.chunk.js.map",
+    "index.html": "/comedy-app/index.html",
+    "precache-manifest.b195cf05e0197cbac052ae25150ef9c5.js": "/comedy-app/precache-manifest.b195cf05e0197cbac052ae25150ef9c5.js",
+    "service-worker.js": "/comedy-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/comedy-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.66f8245d.chunk.js.LICENSE.txt": "/comedy-app/static/js/2.66f8245d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/comedy-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.885e550f.js",
+    "static/js/2.66f8245d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8e855c0c.chunk.js"
+  ]
+}
